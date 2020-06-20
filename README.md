@@ -1,5 +1,8 @@
 # Hugo
 
+* [HUGO](https://gohugo.io/)
+* [Hugo Themes](https://themes.gohugo.io/)
+
 ## 手順
 
 1. GitHubにリポジトリを作成
@@ -99,8 +102,20 @@
 
 * Setting -> GitHub Pages -> Source -> master branch / docs folder
 
-## Refferences
+## Reference
 
 * [Host on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
 * [Hermit](https://github.com/Track3/hermit)
 * [Using HUGO](https://fukasawah.github.io/posts/2018/12/24/using-hugo/)
+* [chanmitsu55blog](https://chanmitsu55.github.io/2017/12/25/2017-12-25-create-blog-by-hugo/)
+
+## Debug
+
+* [config.toml](https://github.com/Track3/hermit/blob/master/exampleSite/config.toml#L28-L32)
+* [Qiita](https://qiita.com/1915keke/items/b858a9eef5ddfaa338dc)
+
+## ToDo
+
+- [ ] メイン画面の作成手順
+- [ ] `config.toml`のより詳細な記述
+- [ ] 他のページ（`About`ページなど）の追加
