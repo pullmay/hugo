@@ -94,3 +94,13 @@
     ```
     $ ./deploy.sh   
     ```
+
+## GitHubの設定
+
+* Setting -> GitHub Pages -> Source -> master branch / docs folder
+
+## Refferences
+
+* [Host on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+* [Hermit](https://github.com/Track3/hermit)
+* [Using HUGO](https://fukasawah.github.io/posts/2018/12/24/using-hugo/)
